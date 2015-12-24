@@ -10,7 +10,7 @@
             </MenuItem>
             <MenuItem Header="账户" Width="60">
                 <MenuItem Header="MenuItem" Height="30" Width="100"/>
-                <MenuItem Header="MenuItem" Height="30"  Width="100" />
+                <MenuItem Header="MenuItem" Height="30" Width="100" />
             </MenuItem>
             <MenuItem Header="帮助" Height="30" Width="60" HorizontalContentAlignment="Center">
                 <MenuItem Header="关于" Height="30" Width="60"  Click="Button_Click"/>
